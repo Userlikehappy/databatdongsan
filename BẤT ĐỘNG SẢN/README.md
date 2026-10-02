@@ -1,4 +1,3 @@
-<img width="1186" height="691" alt="databds _dashboard" src="https://github.com/user-attachments/assets/04fcecb5-4781-4675-80c4-86e402bab11f" /># Bộ Dữ Liệu Bất Động Sản Việt Nam (Real Estate) 🏠📈
 
 **Dự án xây dựng mô hình Machine Learning dự đoán giá nhà đất từ dữ liệu thực tế tại Việt Nam**
 
@@ -52,4 +51,4 @@ Các bước cụ thể bao gồm:
 ```
 - Khi thiết kế, chủ yếu bài viết là ở Hồ Chí Minh và Hà Nội vì số lượng khách hàng ở 2 nơi này là đông đảo nhất.
   Càng ở những vị trí đắt địa quan trọng thì giá cả nhà ở sẽ cao hơn so với mặt bằng chung khi cùng diện tích (giá/,^2), hoặc số phòng,số tầng, eg...
-![Uploading databds._dashboard.png…]()
+<img width="1186" height="691" alt="databds _dashboard" src="https://github.com/user-attachments/assets/04fcecb5-4781-4675-80c4-86e402bab11f" /># Bộ Dữ Liệu Bất Động Sản Việt Nam (Real Estate) 🏠📈
